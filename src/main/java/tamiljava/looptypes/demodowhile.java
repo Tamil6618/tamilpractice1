@@ -25,6 +25,6 @@ public class demodowhile
     public static void main(String[] args) 
     {
         demodowhile whil=new demodowhile();
-        whil.tamil(70f);
+        whil.tamil(34f);
     }
 }

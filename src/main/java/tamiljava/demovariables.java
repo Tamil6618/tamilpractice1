@@ -42,10 +42,16 @@ public class demovariables
         
         demovariables demo=new demovariables();
         demo.local();
+        demovariables demo2=new demovariables();
+
+       System.out.println( "my street no is "+demovariables.mystreetno);  
 
         
     }
      String hometown="salem";
+     
      static short mystreetno=12;
+
+    
 
 }
